@@ -1,0 +1,9 @@
+variable "azure_subscription_id" {}
+variable "azure_client_id" {}
+variable "azure_client_secret" {}
+variable "azure_tenant_id" {}
+variable "location" {}
+variable "vm_size" {}
+variable "db_sku_name" {}
+variable "db_username" {}
+variable "db_password" {}
